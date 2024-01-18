@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=CuerdOS-second
+Description=CuerdOS second plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cuerdos-second
+ScriptFile=/usr/share/plymouth/themes/cuerdos-second/cuerdos-second.script
